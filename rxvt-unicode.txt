@@ -2,10 +2,10 @@ Rxvt.background:black
 Rxvt.foreground:white
 Rxvt.scrollBar:True
 Rxvt.scrollBar_right:True
-Rxvt.scrollBar_floating: False
-Rxvt.scrollstyle: next
+Rxvt.scrollBar_floating:False
+Rxvt.scrollstyle:next
 Rxvt.saveLines:5000
-Rxvt.perl-ext-common: default,tabbed
+Rxvt.perl-ext-common:default,tabbed
 Rxvt.font:xft:MONACO:pixelsize=14
 Rxvt.geometry:300x300
 !光标闪动
