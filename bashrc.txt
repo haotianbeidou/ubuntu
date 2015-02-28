@@ -35,4 +35,4 @@ alias targzl='tar -zvtf'    #查看gz包
 
 alias e='exit'
 alias ruby='ruby -Ku'
-alias mplayer='mplayer -loop 0 -shuffle'
+alias mplayer='mplayer -loop 0 -shuffle --ao=alsa'
