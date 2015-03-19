@@ -8,6 +8,8 @@ noremap <tab> :bn<CR>
 noremap ,<tab> :bp<CR>
 noremap ,a :ls<CR>
 noremap <F10> <esc>:w!<CR>:!python %<CR>
+"win中启动python3.4.3的GUI交互式命令行IDLE(对应python3.4.3的安装目录)
+"noremap <F9> <esc>:w!<CR>:!chcp 65001 & start "IDLE" "D:\Program Files\python3.4.3\pythonw.exe" "D:\Program Files\python3.4.3\Lib\idlelib\idle.pyw"<CR>
 inoremap jj <esc>
 
 inoremap <c-h> <esc>I
