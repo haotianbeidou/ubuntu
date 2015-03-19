@@ -7,7 +7,7 @@ noremap ,bd :bd<CR>
 noremap <tab> :bn<CR>
 noremap ,<tab> :bp<CR>
 noremap ,a :ls<CR>
-noremap <F10> <esc>:w!<CR>:!ruby -Ku %<CR>
+noremap <F10> <esc>:w!<CR>:!python %<CR>
 inoremap jj <esc>
 
 inoremap <c-h> <esc>I
